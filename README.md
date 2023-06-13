@@ -46,7 +46,7 @@ Where:
 
 The combined formula under the [Schwarzchild metric](https://en.wikipedia.org/wiki/Schwarzschild_metric) (the charge, angular momentum, and cosmological constant are zero):
 
-$$ \frac{dt_\text{E}}{dt_\text{c}} = \sqrt{ 1 + \frac{2GM}{rc^2} - \frac{v^2}{c^2} + \left( \frac{c^2}{2U} + 1 \right)^{-1} \frac{{v_\shortparallel}^2}{c^2} } $$
+$$ \frac{dt_\text{E}}{dt_\text{c}} = \sqrt{ 1 - \frac{2GM}{rc^2} - \frac{v^2}{c^2} + \left( \frac{c^2}{2U} + 1 \right)^{-1} \frac{{v_\shortparallel}^2}{c^2} } $$
 
 where:
 - $v_\shortparallel$ is the radial velocity
