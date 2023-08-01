@@ -280,10 +280,7 @@ interactive_plot
 ```
 
 
-
-
-    interactive(children=(FloatLogSlider(value=1.0, description='G', max=10.0, min=-10.0, step=0.01), FloatLogSlid…
-
+![png](output_10_2.png)
 
 
 ## The Schwarzschild Radius and other Singularities
